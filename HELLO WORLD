@@ -1,0 +1,4 @@
+>>> #displaying("Hello world!")
+>>> #print is a python defined default function //comments
+>>> print("Hello World!")
+Hello World!
